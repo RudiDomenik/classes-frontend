@@ -1,0 +1,10 @@
+<h2>Classes List</h2>
+
+<ul>
+    <li *ngFor="let item of items">
+        <p>ID: {{item.id}}</p>
+        <p>Name: {{item.name}}</p>
+        <p>Description: {{item.description}}</p>
+    </li>
+    <p *ngIf="items <= 0">The Classes List is empty!</p>
+</ul>

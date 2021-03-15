@@ -1,0 +1,17 @@
+[
+     {
+         "id": 1,
+         "name": "Class 1",
+         "description": "This is the first class"
+     },
+     {
+         "id": 2,
+         "name": "Class 2",
+         "description": "This is the second class"
+     },
+     {
+         "id": 3,
+         "name": "Class 3",
+         "description": "This is the third class"
+     }
+ ]
